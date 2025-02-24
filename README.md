@@ -6,7 +6,7 @@
 - 🎨 Focused on front-end development, full-stack projects, and AI-driven solutions
 - 📚 Always learning and experimenting with new technologies
 
-
+<br>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <div align="left">
@@ -28,10 +28,6 @@
 </div>
 
 ###
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR_USERNAME/)
-
 
 
 

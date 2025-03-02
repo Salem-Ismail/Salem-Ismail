@@ -1,9 +1,6 @@
 # ✻ Salem Ismail 
+
 `💻 Computer Science Student`
-
-<br>
-
-# 📚 About Me:
 - Passionate about building efficient, scalable, and user-friendly applications
 - Focused on front-end development, full-stack projects, and AI-driven solutions
 - Always learning and experimenting with new technologies
